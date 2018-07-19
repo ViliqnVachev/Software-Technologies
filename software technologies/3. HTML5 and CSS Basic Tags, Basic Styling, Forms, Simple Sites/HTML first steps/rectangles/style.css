@@ -1,0 +1,20 @@
+.first{
+    border-style: dotted;
+    border-color: blue;
+    padding: 20px;
+    width: 300px;
+}
+
+.second{
+    border-style: dashed;
+    border-color: red;
+    padding: 20px;
+    width: 250px;
+}
+
+.third{
+    border-style: solid;
+    border-color: green;
+    padding: 20px;
+    width: 200px;
+}

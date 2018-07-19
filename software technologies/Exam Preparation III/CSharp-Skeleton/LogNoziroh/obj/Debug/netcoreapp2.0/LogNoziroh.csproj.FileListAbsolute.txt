@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.deps.json
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.dll
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.pdb
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.dll
+C:\Users\Viliyan\Desktop\Exam Preparation III\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.pdb

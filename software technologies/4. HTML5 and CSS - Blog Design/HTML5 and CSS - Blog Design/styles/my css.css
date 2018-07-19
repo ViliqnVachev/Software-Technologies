@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Itim');
+
+body{
+    font-family: 'Itim', cursive;
+    //background: #D7CEC7;
+
+    background-color: #D7CEC7;
+}
+h1{
+    font-family: 'Itim', cursive;
+}
+h2{
+    font-family: 'Itim', cursive;
+}
+.navbar-brand{
+    font-family: 'Itim', cursive;
+
+}
+
+
+.navbar-default {
+    background-color: #76323F;
+    border-color: transparent;
+}
+.btn-default {
+    color: black;
+    background-color: #c09f99;
+    border-color: #c09f99;
+}
+.btn-primary {
+    color: black;
+    background-color: #c09f99;
+    border-color: #c09f99;
+}
+.my{
+    color: black;
+}

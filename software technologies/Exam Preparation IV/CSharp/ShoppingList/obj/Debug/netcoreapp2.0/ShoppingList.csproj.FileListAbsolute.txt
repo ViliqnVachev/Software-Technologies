@@ -1,0 +1,11 @@
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.deps.json
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.json
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.dev.json
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.dll
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.pdb
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfo.cs
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.dll
+C:\Users\Viliyan\Desktop\Exam Preparation IV\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.pdb

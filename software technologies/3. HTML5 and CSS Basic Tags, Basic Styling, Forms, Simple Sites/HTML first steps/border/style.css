@@ -1,0 +1,38 @@
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.redp{
+    border-style: solid;
+    border-radius: 6px;
+    width: 200px;
+    border-color: red ;
+    background: darkgrey;
+    text-align: center;
+}
+
+.greenp{
+    border-style: solid;
+    border-radius: 6px;
+    width: 200px;
+    border-color: green ;
+    background: darkgrey;
+    text-align: center;
+}
+
+.bluep{
+    border-style: solid;
+    border-radius: 6px;
+    width: 200px;
+    border-color: blue ;
+    background: darkgrey;
+    text-align: center;
+}
